@@ -1,0 +1,27 @@
+{
+  "name": "lab-six",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josep408/lab-six.git"
+  },
+  "keywords": [
+    "lab",
+    "six"
+  ],
+  "author": "Jose Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josep408/lab-six/issues"
+  },
+  "homepage": "https://github.com/josep408/lab-six#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
